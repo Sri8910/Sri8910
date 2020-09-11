@@ -2,6 +2,7 @@
 
 :point_right: **This is Sriram Charan ,  A Programming and Machine Learning Enthusiast** 
 
+![Follow](https://img.shields.io/github/followers/Sri8910?label=Follow&logo=github&style=social)
 
 [![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 
