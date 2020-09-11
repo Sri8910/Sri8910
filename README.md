@@ -4,7 +4,7 @@
 
 
 Connect with me:
-![Linkedin](https://img.shields.io/endpoint?color=green&label=Linkedin&logo=connect&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsriram-c-6ab6b6171%2F)
+[![Linkedin](https://img.shields.io/endpoint?color=green&label=Linkedin&logo=connect&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsriram-c-6ab6b6171%2F)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
