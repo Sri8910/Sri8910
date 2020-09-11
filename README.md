@@ -32,4 +32,5 @@ My interest in Machine Learning started with the boom of Data science. By explor
 
 I am looking forward to improving my problem-solving skills and also work consistently to achieve better performance with constant learning and to upskill myself.
 
+[![sriram's github stats](https://github-readme-stats.vercel.app/api?username=Sri8910)](https://github.com/Sri8910/github-readme-stats)
 
