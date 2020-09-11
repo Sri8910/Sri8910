@@ -2,9 +2,9 @@
 
 [![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 
+**#Connect with me:**
 
-Connect with me:
-![Custom badge](https://img.shields.io/endpoint?color=blue&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Fendpoint%3Furl%3Dhttps%3A%2F%2Fwww.linkedin.com%2Fin%2Fsriram-c-6ab6b6171%2F%26style%3CSTYLE%3E%26label%3D%3CLABEL%3E%26color%3D%3CCOLOR%3E%26message%3Dconnect%26color%3D%3CCOLOR%3E&message=connect)
+![Linkedin](https://img.shields.io/file:///C:/Users/God/Downloads/linkedin%20(1).svg?url=https://www.linkedin.com/in/sriram-c-6ab6b6171/&style=for-the-badge&logo=linkedin)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
