@@ -4,7 +4,7 @@
 
 
 Connect with me:
-[Linkedin](
+[Linkedin](![Custom badge](https://img.shields.io/endpoint?color=blue&label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fimg.shields.io%2Fendpoint%3Furl%3Dhttps%3A%2F%2Fwww.linkedin.com%2Fin%2Fsriram-c-6ab6b6171%2F%26style%3CSTYLE%3E%26label%3D%3CLABEL%3E%26color%3D%3CCOLOR%3E%26message%3Dconnect%26color%3D%3CCOLOR%3E)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
