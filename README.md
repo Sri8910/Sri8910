@@ -5,26 +5,21 @@
 
 [![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 
-**Connect me:**
+
+
+- 🌱 I’m currently learning Machine Learning and upskilling myself on Programming.
+
+- 👯 I’m looking to collaborate on a team project for whom they need a person with never give up mindset
+
+
+
+- 📫 How to reach me: 
 
 Mail me: @c.sriramchinu@gmail.com
+
 Linkedin: https://www.linkedin.com/in/sriram-c-6ab6b6171/ 
 
 
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
 
 - ⚡ Fun fact:
 
