@@ -1,6 +1,6 @@
-**Hi there 👋 
+**Hi there** 👋 
 
-:point_right: This is Sriram Charan ,  A Programming and Machine Learning Enthusiast :smiley:**
+:point_right: **This is Sriram Charan ,  A Programming and Machine Learning Enthusiast** 
 
 
 [![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
@@ -29,4 +29,5 @@ I used to think about how one can create a stunning application, a web, a social
 My interest in Machine Learning started with the boom of Data science. By exploring, I began with the Andrew Ng course and learned about various algorithms used in Machine Learning.
 
 I am looking forward to improving my problem-solving skills and also work consistently to achieve better performance with constant learning and to upskill myself.
+
 
