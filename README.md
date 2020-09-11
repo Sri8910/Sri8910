@@ -6,8 +6,9 @@
 [![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 
 **Connect me:**
+
 Mail me: @c.sriramchinu@gmail.com
-Linkedin: https://www.linkedin.com/in/sriram-c-6ab6b6171/ :point_left:
+Linkedin: https://www.linkedin.com/in/sriram-c-6ab6b6171/ 
 
 
 
