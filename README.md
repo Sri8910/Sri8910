@@ -1,9 +1,10 @@
-### Hi there 👋
+#Hi there 👋,This is Sriram Charan,Programming and Machine Learning Enthusiast :smiley:
 
-<!--
-**Sri8910/Sri8910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 Here are some ideas to get you started:
+
+Connect with me:
+https://img.shields.io/twitter/url?color=Blue&style=social
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
