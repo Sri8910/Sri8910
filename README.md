@@ -1,6 +1,6 @@
 **#Hi there 👋,This is Sriram Charan,Programming and Machine Learning Enthusiast :smiley:**
 
-![Follow](https://img.shields.io/github/followers/?color=red&label=Follow&logoColor=black&style=social)
+![Follow](https://img.shields.io/github/followers/https://github.com/Sri8910?color=red&label=Follow&logoColor=black&style=social)
 
 [![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 
