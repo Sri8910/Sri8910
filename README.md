@@ -1,8 +1,9 @@
 **Hi there** 👋 
 
-:point_right: **This is Sriram Charan ,  A Programming and Machine Learning Enthusiast** 
+:point_left: **This is Sriram Charan ,  A Programming , and Machine Learning Enthusiast** 
 
-![github](https://img.shields.io/github/followers/Sri8910?label=Follow&logo=github&style=social)
+![Sri8910](https://img.shields.io/github/followers/Sri8910?label=Follow&logo=github&style=social)
+
 
 [![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 
