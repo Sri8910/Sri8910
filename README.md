@@ -3,7 +3,7 @@
 :point_left: **This is Sriram Charan ,  A Programming , and Machine Learning Enthusiast** 
 
 
-[![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910.github.io)
+[![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 
 **Connect me:**
 Mail me: @c.sriramchinu@gmail.com
