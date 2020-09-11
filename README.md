@@ -1,10 +1,12 @@
 **#Hi there 👋,This is Sriram Charan,Programming and Machine Learning Enthusiast :smiley:**
 
+![Follow](https://img.shields.io/github/followers/Sri8910?color=red&label=Follow&logoColor=black&style=social)
+
 [![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
 
 **#Connect with me:**
 
-![Linkedin](https://img.shields.io/file:///C:/Users/God/Downloads/linkedin%20(1).svg?url=https://www.linkedin.com/in/sriram-c-6ab6b6171/&style=for-the-badge&logo=linkedin)
+![Linkedin])
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
