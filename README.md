@@ -2,10 +2,13 @@
 
 :point_left: **This is Sriram Charan ,  A Programming , and Machine Learning Enthusiast** 
 
-![Sri8910](https://img.shields.io/github/followers/Sri8910?label=Follow&logo=github&style=social)
 
+[![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910.github.io)
 
-[![HitCount](http://hits.dwyl.com/Sri8910/Sri8910.svg)](http://hits.dwyl.com/Sri8910/Sri8910)
+**Connect me:**
+Mail me: @c.sriramchinu@gmail.com
+Linkedin: https://www.linkedin.com/in/sriram-c-6ab6b6171/ :point_left:
+
 
 
 - 🔭 I’m currently working on ...
@@ -22,15 +25,15 @@
 
 - 😄 Pronouns: ...
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
 
 Passionate about Programming, Machine learning, and Web Development.
 
 I used to think about how one can create a stunning application, a web, a social media platform. As I grew, I found that all these wonders are happening because of Programming. It caused me to develop my passion for programming.
 
-My interest in Machine Learning started with the boom of Data science. By exploring, I began with the Andrew Ng course and learned about various algorithms used in Machine Learning.
+My interest in Machine Learning started with the boom of Data science. By exploring, I began with  Andrew Ng's course and learned about various algorithms used in Machine Learning.
 
 I am looking forward to improving my problem-solving skills and also work consistently to achieve better performance with constant learning and to upskill myself.
 
-[![sriram's github stats](https://github-readme-stats.vercel.app/api?username=Sri8910)](https://github.com/Sri8910/github-readme-stats)
+![Sriram's github stats](https://github-readme-stats.vercel.app/api?username=Sri8910&show_icons=true&theme=radical)
 
