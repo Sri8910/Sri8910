@@ -4,7 +4,7 @@
 
 
 Connect with me:
-![Linkedin](href="https://www.linkedin.com/in/sriram-c-6ab6b6171/"><img src="file:///C:/Users/God/Downloads/linkedin.svg?&style=for-the-badge&logo=Linkedin"/>)
+[Linkedin](
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
