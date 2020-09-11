@@ -4,7 +4,7 @@
 
 
 Connect with me:
-[!Linkedin](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsriram-c-6ab6b6171%2F)
+![Linkedin](<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
